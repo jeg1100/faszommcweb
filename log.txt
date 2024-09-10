@@ -1,0 +1,39 @@
+2024-09-10T11:10:30.661Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:10:40.694Z - Nem sikerült kapcsolódni az adatbázishoz: connect ETIMEDOUT
+2024-09-10T11:14:29.886Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:14:30.118Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:14:30.153Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:18:40.740Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:18:40.930Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:18:40.972Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:21:12.291Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:21:12.501Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:21:12.543Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:27:29.894Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:27:30.073Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:27:30.122Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:32:57.972Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:32:58.143Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:32:58.193Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:34:16.810Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:34:16.976Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:34:17.020Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:41:58.314Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:41:58.513Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:41:58.549Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:45:21.109Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:45:21.283Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:45:21.317Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]
+2024-09-10T11:46:40.052Z - Szerver fut a 3000-es porton
+A weboldal megnyitható: http://localhost:3000
+2024-09-10T11:46:40.231Z - Sikeresen csatlakozva az adatbázishoz!
+2024-09-10T11:46:40.276Z - Kapcsolat sikeresen ellenőrizve, eredmény: [{"1":1}]

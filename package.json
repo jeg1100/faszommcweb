@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-server-list",
+  "version": "1.0.0",
+  "description": "Szerverlista és PHP támogatás Express.js segítségével",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
